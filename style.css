@@ -1,10 +1,10 @@
 .mustache {
     width: 180px;
     height: 180px;
-    left: 500px;
-    border-radius: 50%;
+    left: 100px;
+    border-radius: 80%;
     position: absolute;
-    color: black;
+    color: pink;
     box-shadow:
         150px 240px 0 0 currentColor,
         300px 240px 0 0 currentColor; 
